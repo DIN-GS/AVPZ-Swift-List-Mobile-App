@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SwiftList</string>
+    <string name="projects_activity_label">Projects</string>
+    <string name="tasks_activity_label">Tasks</string>
+    <string name="users_activity_label">Users</string>
+    <string name="register_activity_label">Register</string>
+    <string name="login">Login</string>
+    <string name="email_hint">dev@dev.com</string>
+    <string name="password_hint">••••••••••••</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="create_an_account">Create an account.</string>
+    <string name="fullname_hint">John Doe</string>
+    <string name="already_member">Already a member?</string>
+    <string name="sign_in">Sign in.</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome back,</string>
+    <string name="user_name_hint">John!</string>
+</resources>
